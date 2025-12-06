@@ -1,0 +1,11 @@
+.termina-log {
+  font-family: monospace;
+  color: #e65c5c;
+}
+
+.termina-failure {
+  border: 1px solid #e65c5c;
+  padding: 0.5rem 0.75rem;
+  background: rgba(80, 0, 0, 0.4);
+  font-family: monospace;
+}
