@@ -1,0 +1,28 @@
+{
+  "id": "termina-sim",
+  "title": "Termina Simulation",
+  "version": "1.0.0",
+  "description": "Simulates Termina, the Headless Corpse at the End of Time, and outputs its log cycles to the FoundryVTT chat.",
+  "authors": [
+    {
+      "name": "Time Runs Out / Namtara GM"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "systems": [
+    "dnd5e"
+  ],
+  "esmodules": [
+    "scripts/termina.js"
+  ],
+  "styles": [
+    "styles/termina.css"
+  ],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE"
+}
