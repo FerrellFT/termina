@@ -23,6 +23,6 @@
   ],
   "url": "https://github.com/FerrellFT/termina",
   "manifest": "https://raw.githubusercontent.com/FerrellFT/termina/main/module.json",
-  "download": "DOWNLOAD_URL_HERE",
+  "download": "https://github.com/FerrellFT/termina/releases/download/v1/termina-sim-1.0.0.zip",
   "license": "LICENSE"
 }
