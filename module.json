@@ -21,8 +21,8 @@
   "styles": [
     "styles/termina.css"
   ],
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/FerrellFT/termina",
+  "manifest": "https://raw.githubusercontent.com/FerrellFT/termina/main/module.json",
+  "download": "DOWNLOAD_URL_HERE",
   "license": "LICENSE"
 }
