@@ -1,8 +1,8 @@
 {
   "id": "termina-sim",
-  "title": "Termina Simulation",
-  "version": "1.0.0",
-  "description": "Simulates Termina, the Headless Corpse at the End of Time, and outputs its log cycles to the FoundryVTT chat.",
+  "title": "TITANOMACHIA.exe (\u03a9-me05 Simulation)",
+  "version": "2.0.0",
+  "description": "Simulates \u03a9-me05 (TITANOMACHIA.exe), logging its inference attempts to a collapsible journal instead of spamming chat.",
   "authors": [
     {
       "name": "Time Runs Out / Namtara GM"
@@ -21,8 +21,8 @@
   "styles": [
     "styles/termina.css"
   ],
-  "url": "https://github.com/FerrellFT/termina",
-  "manifest": "https://raw.githubusercontent.com/FerrellFT/termina/main/module.json",
-  "download": "https://github.com/FerrellFT/termina/releases/download/v1/termina-sim-1.0.0.zip",
+  "url": "",
+  "manifest": "",
+  "download": "",
   "license": "LICENSE"
 }
